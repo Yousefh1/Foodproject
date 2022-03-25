@@ -1,0 +1,47 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+}
+.header {
+    margin: 10px;
+    padding: 60px;
+    text-align: center;
+    background: burlywood;
+    color: black;
+    font-size: 30px;
+}
+.intro-content {
+    margin: 60px;
+    padding: 60px;
+    font-size: 20px;
+    border: black;
+    background-color: lightgray;
+}
+h2 {
+    font-weight: 900;
+    text-align: center;
+    margin-top: -50px;
+}
+.description {
+    align-items: flex-end;
+}
+.ok {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #333;
+    margin: 10px;
+    
+}
+.meaning {
+    letter-spacing: 1px;
+    margin: 11px;
+    color: darkred;
+}
+.card-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.meaning {
+    display: block;
+    align-self: center;
+}
